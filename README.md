@@ -1,3 +1,5 @@
+![HIDDENIA / OSONE](docs/assets/banner.svg)
+
 # HIDDENIA — OSONE
 
 Projeto experimental de assistente digital multimodal, com interface web e serviços de integração.
@@ -23,7 +25,7 @@ cd HIDDENIA
 npm install
 ```
 
-Configure as variáveis de ambiente conforme [ .env.example](.env.example), sem incluir chaves privadas no controle de versão.
+Configure as variáveis de ambiente conforme [.env.example](.env.example), sem incluir chaves privadas no controle de versão.
 
 ```bash
 npm run dev
