@@ -44,3 +44,7 @@ npm run build
 | src/documentos_osone | Documentação conceitual |
 
 **Status:** projeto experimental.
+
+## Documentação técnica
+
+[Arquitetura, componentes e validação](docs/ARCHITECTURE.md).
